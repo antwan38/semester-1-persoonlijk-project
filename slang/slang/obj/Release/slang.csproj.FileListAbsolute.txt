@@ -1,0 +1,10 @@
+C:\Users\Antwa\source\repos\slang\slang\bin\Release\slang.exe.config
+C:\Users\Antwa\source\repos\slang\slang\bin\Release\slang.exe
+C:\Users\Antwa\source\repos\slang\slang\bin\Release\slang.pdb
+C:\Users\Antwa\source\repos\slang\slang\obj\Release\slang.csproj.AssemblyReference.cache
+C:\Users\Antwa\source\repos\slang\slang\obj\Release\slang.font.resources
+C:\Users\Antwa\source\repos\slang\slang\obj\Release\slang.Properties.Resources.resources
+C:\Users\Antwa\source\repos\slang\slang\obj\Release\slang.csproj.GenerateResource.cache
+C:\Users\Antwa\source\repos\slang\slang\obj\Release\slang.csproj.CoreCompileInputs.cache
+C:\Users\Antwa\source\repos\slang\slang\obj\Release\slang.exe
+C:\Users\Antwa\source\repos\slang\slang\obj\Release\slang.pdb

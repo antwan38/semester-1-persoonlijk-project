@@ -1,0 +1,21 @@
+C:\Users\Antwa\source\repos\slang\slang\bin\Debug\slang.exe.config
+C:\Users\Antwa\source\repos\slang\slang\bin\Debug\slang.exe
+C:\Users\Antwa\source\repos\slang\slang\bin\Debug\slang.pdb
+C:\Users\Antwa\source\repos\slang\slang\obj\Debug\slang.Properties.Resources.resources
+C:\Users\Antwa\source\repos\slang\slang\obj\Debug\slang.csproj.GenerateResource.cache
+C:\Users\Antwa\source\repos\slang\slang\obj\Debug\slang.csproj.CoreCompileInputs.cache
+C:\Users\Antwa\source\repos\slang\slang\obj\Debug\slang.exe
+C:\Users\Antwa\source\repos\slang\slang\obj\Debug\slang.pdb
+C:\Users\Antwa\source\repos\slang\slang\obj\Debug\slang.csproj.AssemblyReference.cache
+C:\Users\Antwa\source\repos\slang\slang\obj\Debug\slang.font.resources
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\bin\Debug\slang.exe.config
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\bin\Debug\slang.exe
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\bin\Debug\slang.pdb
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\obj\Debug\slang.csproj.AssemblyReference.cache
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\obj\Debug\slang.font.resources
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\obj\Debug\slang.Properties.Resources.resources
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\obj\Debug\slang.csproj.GenerateResource.cache
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\obj\Debug\slang.csproj.CoreCompileInputs.cache
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\obj\Debug\slang.exe
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\obj\Debug\slang.pdb
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\slang\slang\obj\Debug\slang.csproj.SuggestedBindingRedirects.cache
